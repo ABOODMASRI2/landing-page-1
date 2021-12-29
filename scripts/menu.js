@@ -2,7 +2,6 @@
 
 const menu = document.querySelector('.mobile nav');
 const hamburguer = document.querySelector('#hamburguer');
-const closeHamburguer = document.querySelector('#close-menu');
 const backdrop = document.querySelector('#backdrop');
 
 
