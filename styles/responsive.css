@@ -204,11 +204,15 @@
     footer .search{
         width: 100%;
         position: relative;
+        width: 100%;
+
     }
     footer .search p{
         top: 218px;
         position: absolute;
         display: none;
+        width: 100%;
+
     }
     footer .input-search{
         display: flex;
@@ -216,6 +220,7 @@
         justify-content: center;
         width: 100%;
         margin-bottom: 30px;
+        width: 100%;
     }
     footer input[type="text"]{
         width: 55%;
@@ -270,4 +275,7 @@
     .btn a{
         width: 100px;
     }
+}
+.mrg{
+    margin-top: 1.5%;
 }

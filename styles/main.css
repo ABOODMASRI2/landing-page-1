@@ -205,8 +205,10 @@ footer .max{
 }
 footer .network{
     display: flex;
-    align-items: center;
+    align-items:center;
     justify-content: center;
+    padding-top: 10%;
+    padding-right: 15%;
 }
 footer .socials{
     height: 100%;
